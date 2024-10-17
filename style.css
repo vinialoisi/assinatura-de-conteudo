@@ -1,0 +1,29 @@
+:root{
+    --titulo-principal:#faebeb;
+    --titulo-secundario:#ffe5e5;
+    --cor-fundo:#0a0a0a;
+    --cor-botao:#a61321;
+}
+
+p{
+    color: var(--titulo-secundario);
+}
+
+body{
+    background-color: var(--cor-fundo);
+}
+
+h1{
+    color: var(--titulo-principal);
+}
+
+.imagem-1{
+    width: 320px;
+    height: 460px;
+}
+
+.imagem-2{
+    width: 340px;
+    height: 340px;
+}
+
